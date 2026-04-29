@@ -1,0 +1,15 @@
+:root {
+    --noir: #0a0a0a;
+    --blanc: #fafafa;
+    --accent: #c9a96e;
+    /* warm gold */
+    --muted: #6b6b6b;
+    --border: #e0e0e0;
+    --radius: 2px;
+    /* sharp, minimal */
+    --font-display: 'Cormorant Garamond', serif;
+    --font-body: 'Jost', sans-serif;
+}
+
+/* Google Fonts: Cormorant Garamond + Jost */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300; 400; 600& family=Jost:wght@300; 400; 500&display=swap');
